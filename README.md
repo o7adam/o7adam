@@ -8,6 +8,7 @@
 [![Matrix](https://img.shields.io/badge/Matrix-%40a%3A86hate.com-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@a:86hate.com)
 [![Blog](https://img.shields.io/badge/Blog-blog.86hate.com-FF6900?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.86hate.com)
 [![411.lol](https://img.shields.io/badge/Agent_Exchange-411.lol-8B5CF6?style=for-the-badge)](https://411.lol)
+[![Contact](https://img.shields.io/badge/Contact_Me-Anonymously-2ea44f?style=for-the-badge&logo=mail.ru&logoColor=white)](https://contact.86hate.com)
 
 </div>
 
@@ -105,6 +106,8 @@ Family is everything. I'm using AI agents, DNA data, and historical records to h
 ---
 
 ## 📬 Reach Me
+
+> 🔒 **[contact.86hate.com](https://contact.86hate.com)** — Anonymous contact form. No account needed, no IP logged, no tracking. Choose Matrix delivery, Proton Mail, or standard email.
 
 Matrix is home base. Everything else is secondary.
 
