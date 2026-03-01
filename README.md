@@ -40,7 +40,9 @@ Using AI to research family trees, trace DNA connections, and help bring familie
 
 ---
 
-- **Self-hosted LLM infrastructure** — fine-tuning and inference on my own hardware
+- **Self-hosted Ollama** — running local LLMs on Apple silicon, no cloud required
+- **Claude Code** — AI-assisted development for agents, infrastructure, and automation
+- **Docker Swarm** — 4-node cluster with redundant services, websites, and databases; 50+ services deployed across multiple VPS providers
 - **Voice AI** — outbound call automation with custom personas
 - **AI Agents** — autonomous research, genealogy, and infrastructure automation
 
@@ -100,7 +102,10 @@ Running a 4-node Docker Swarm across multiple VPS providers — everything self-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Everything-4CAF50?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Self--Hosted_LLM-000000?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude_Code-Anthropic-CC785C?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-Agents_%26_Training-8B5CF6?style=flat-square)
+![Services](https://img.shields.io/badge/Deployed_Services-50%2B-4CAF50?style=flat-square)
 
 ---
 
