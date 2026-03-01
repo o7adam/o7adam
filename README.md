@@ -5,7 +5,7 @@
 **Electrical Engineer · Privacy Advocate · AI Builder · Sailor · Family Man**
 
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40adam%40m.33x.me-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://m.33x.me/@adam)
-[![Matrix](https://img.shields.io/badge/Matrix-Best_way_to_reach_me-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@road33:matrix.org)
+[![Matrix](https://img.shields.io/badge/Matrix-Best_way_to_reach_me-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@a:86hate.com)
 [![Blog](https://img.shields.io/badge/Blog-blog.86hate.com-FF6900?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.86hate.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-harriman-86317a2)
 
@@ -72,7 +72,7 @@ Running a 4-node Docker Swarm across multiple VPS providers — everything self-
 
 | Platform | | Preference |
 |----------|-|------------|
-| **Matrix** · `@road33:matrix.org` | [Message me](https://matrix.to/#/@road33:matrix.org) | ⭐ Best way |
+| **Matrix** · `@a:86hate.com` · `@road33:matrix.org` | [Message me](https://matrix.to/#/@a:86hate.com) | ⭐ Best way |
 | **Mastodon** · `@adam@m.33x.me` | [Follow](https://m.33x.me/@adam) | ✅ Preferred |
 | **Signal** | Available on request | ✅ Available |
 | **LinkedIn** | [adam-harriman-86317a2](https://www.linkedin.com/in/adam-harriman-86317a2) | 👍 OK |
