@@ -82,7 +82,7 @@ Running a 4-node Docker Swarm across multiple VPS providers — everything self-
 | Platform | | Preference |
 |----------|-|------------|
 | **Matrix** · `@a:86hate.com` · `@road33:matrix.org` | [Message me](https://matrix.to/#/@a:86hate.com) | ⭐ Best way |
-| **Mastodon** · `@adam@m.33x.me` | [Follow](https://m.33x.me/@adam) | ✅ Preferred |
+| **Mastodon** · `@adam@m.33x.me` · `@road33@mastodon.social` (backup) | [Follow](https://m.33x.me/@adam) | ✅ Preferred |
 | **Signal** | Available on request | ✅ Available |
 | **LinkedIn** | [adam-harriman-86317a2](https://www.linkedin.com/in/adam-harriman-86317a2) | 👍 OK |
 | **Twitter / X** · `@o7adam` | [Profile](https://twitter.com/o7adam) | 🔕 Low use |
