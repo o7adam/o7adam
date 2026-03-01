@@ -13,6 +13,14 @@
 
 ---
 
+## ✍️ From the Blog
+
+I write about AI, privacy, self-hosting, sailing, and whatever I'm currently building. No ads, no tracking, no paywalls — just real talk.
+
+👉 **[blog.86hate.com](https://blog.86hate.com)**
+
+---
+
 ## 👋 Who Am I?
 
 RF and hardware engineer turned AI builder. I've spent 30+ years designing safety-critical systems for aviation, rail, and aerospace — the kind of stuff where failure isn't an option. These days I apply that same obsessive attention to detail to AI agents, self-hosted infrastructure, and projects that actually matter.
