@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6364FF&center=true&vCenter=true&width=600&lines=Electrical+Engineer+%F0%9F%94%A7;Privacy+Advocate+%F0%9F%94%92;AI+Agent+Builder+%F0%9F%A4%96;Sailor+%E2%9B%B5+%7C+Family+Man+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7;Linux+Since+1991+%F0%9F%90%A7;Building+Things+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6364FF&center=true&vCenter=true&width=600&lines=Electrical+Engineer+%F0%9F%94%A7;WiFi+Pioneer+%F0%9F%93%A1;19+Years+Building+My+Own+Thing;Privacy+Advocate+%F0%9F%94%92;AI+Agent+Builder+%F0%9F%A4%96;Sailor+%E2%9B%B5+%7C+Family+Man+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7;Linux+Since+1991+%F0%9F%90%A7;Looking+for+the+Next+Big+Thing+%F0%9F%9A%80" alt="Typing SVG" />
 
 # Adam Harriman
 
@@ -24,7 +24,11 @@ I write about AI, privacy, self-hosting, sailing, and whatever I'm currently bui
 
 ## 👋 Who Am I?
 
-RF and hardware engineer turned AI builder. I've spent 30+ years designing safety-critical systems for aviation, rail, and aerospace — the kind of stuff where failure isn't an option. These days I apply that same obsessive attention to detail to AI agents, self-hosted infrastructure, and projects that actually matter.
+RF and hardware engineer turned AI builder. I've spent 30+ years designing safety-critical systems for aviation, rail, and aerospace — the kind of stuff where failure isn't an option.
+
+I helped pioneer early WiFi technology and ran my own electronics business for **19 years** — building wireless products, rocket systems, and custom software from the ground up. The kind of work where you go from schematic to shipping product and own every layer in between.
+
+These days I apply that same obsessive attention to detail to AI agents, self-hosted infrastructure, and projects that actually matter. I'm currently **looking for my next big thing** — if you're building something ambitious at the intersection of hardware, wireless, AI, or privacy tech, let's talk.
 
 I'm a **privacy advocate** who walks the walk — I don't run Gmail or Facebook products on my main devices. I own my data, host my own services, and believe the internet should belong to its users, not its advertisers.
 
