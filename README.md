@@ -30,10 +30,19 @@ I'm a family man first, a builder always. Whether it's software, infrastructure,
 
 I use AI daily to develop projects, train models, and work with large datasets. I'm building autonomous agents that do real work — research, genealogy, infrastructure automation, market analysis.
 
-- **[411.lol](https://411.lol)** — Agent Exchange: agent-optimized search & service discovery. Mission: save 1 trillion tokens for humanity
-- **AI Genealogy Agents** — 34-source historical research + 41-agent social graph builder
+### 🔥 Active Projects
+
+**[Agent Exchange — 411.lol](https://411.lol)**
+An agent-optimized search and service discovery platform. Instead of burning thousands of tokens searching the web, agents find what they need in ~50 tokens. Mission: save 1 trillion tokens for humanity. Free to use, community-powered.
+
+**[Family Genealogy & Reconnection — 86hate.com](https://86hate.com)**
+Using AI to research family trees, trace DNA connections, and help bring families back together. This project is close to my heart — combining historical records, DNA data, and modern AI agents to rediscover lost connections and bring love back into the world. Because family matters.
+
+---
+
 - **Self-hosted LLM infrastructure** — fine-tuning and inference on my own hardware
 - **Voice AI** — outbound call automation with custom personas
+- **AI Agents** — autonomous research, genealogy, and infrastructure automation
 
 ---
 
