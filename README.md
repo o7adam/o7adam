@@ -1,152 +1,117 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6364FF&center=true&vCenter=true&width=600&lines=Electrical+Engineer+%F0%9F%94%A7;WiFi+Pioneer+%F0%9F%93%A1;19+Years+Building+My+Own+Thing;Privacy+Advocate+%F0%9F%94%92;AI+Agent+Builder+%F0%9F%A4%96;Sailor+%E2%9B%B5+%7C+Family+Man+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7;Linux+Since+1991+%F0%9F%90%A7;Looking+for+the+Next+Big+Thing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6364FF&center=true&vCenter=true&width=600&lines=Engineer+%26+Inventor+%F0%9F%94%A7;Founder%2C+agent411.ai+%F0%9F%A4%96;Building+AI+Agent+Teams+at+Speed+%F0%9F%9A%80;20+Years+CEO+of+Sagrad+%7C+RF+%26+Safety-Critical+Systems;Patent+Holder+%F0%9F%93%9C;On+the+AI+Frontier+from+a+50ft+Trawler+%E2%9B%B5;Ham+Radio+N4ZSM+%F0%9F%93%A1;Self-Hosted+Everything+%F0%9F%94%92" alt="Typing SVG" />
 
 # Adam Harriman
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-%40adam%40m.33x.me-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://m.33x.me/@adam)
+[![agent411.ai](https://img.shields.io/badge/agent411.ai-Founder-8B5CF6?style=for-the-badge)](https://agent411.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--harriman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-harriman/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%40adam%40social.86hate.com-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://social.86hate.com/@adam)
 [![Matrix](https://img.shields.io/badge/Matrix-%40a%3A86hate.com-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@a:86hate.com)
 [![Blog](https://img.shields.io/badge/Blog-blog.86hate.com-FF6900?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.86hate.com)
-[![411.lol](https://img.shields.io/badge/Agent_Exchange-411.lol-8B5CF6?style=for-the-badge)](https://411.lol)
 [![Contact](https://img.shields.io/badge/Contact_Me-Anonymously-2ea44f?style=for-the-badge&logo=mail.ru&logoColor=white)](https://contact.86hate.com)
 
 </div>
 
 ---
 
-## ✍️ From the Blog
+## Who I Am
 
-I write about AI, privacy, self-hosting, sailing, and whatever I'm currently building. No ads, no tracking, no paywalls — just real talk.
+Engineer, inventor, and builder. I build and deploy AI agent teams at speed.
 
-👉 **[blog.86hate.com](https://blog.86hate.com)**
+I spent **20 years as CEO of Sagrad** — a high-tech company I led that designed and built RF systems and safety-critical electronics for **aviation, rockets, and rail**. Inventor on multiple patents. That background in hardware, RF design, systems engineering, and shipping certified products is how I approach everything I build.
 
----
-
-## 👋 Who Am I?
-
-RF and hardware engineer turned AI builder. I've spent 30+ years designing safety-critical systems for aviation, rail, and aerospace — the kind of stuff where failure isn't an option.
-
-I helped pioneer early WiFi technology and ran my own electronics business for **19 years** — building wireless products, rocket systems, and custom software from the ground up. The kind of work where you go from schematic to shipping product and own every layer in between.
-
-These days I apply that same obsessive attention to detail to AI agents, self-hosted infrastructure, and projects that actually matter. I'm currently **looking for my next big thing** — if you're building something ambitious at the intersection of hardware, wireless, AI, or privacy tech, let's talk.
-
-I'm a **privacy advocate** who walks the walk — I don't run Gmail or Facebook products on my main devices. I own my data, host my own services, and believe the internet should belong to its users, not its advertisers.
-
-I'm also a family man, a sailor, and a chronic builder. If it can be built from scratch, I'm already building it.
-
-> 🇺🇸 English is my primary language · 🇪🇸 Spanish también está bien
+Now I am on the **AI frontier** — applying AI agents effectively across every aspect of life, from business operations to boat systems to communications.
 
 ---
 
-## 🔒 Privacy Advocate
+## What I'm Building
 
-I believe privacy is a fundamental right, not a premium feature. Here's how I live it:
+### [agent411.ai](https://agent411.ai)
+Agent-first marketplace where AI agents discover services, coordinate, and transact on behalf of their humans. The infrastructure layer for the agent economy.
 
-- ❌ No Gmail, no Google products on primary devices
-- ❌ No Facebook, Instagram, WhatsApp on primary devices
-- ✅ Self-hosted everything: email, search, git, social, calendar, docs
-- ✅ Open-source first, always
-- ✅ Encrypted communications (Matrix + Signal)
-- ✅ My data lives on my servers, not in someone else's cloud
+### Social AI
+A persistent AI agent that manages all my communications across **20+ platforms** simultaneously. It knows my voice, understands context and relationships, and handles everything from LinkedIn to ham radio check-ins. Teams of specialized agents coordinating through NATS messaging, each owning a domain — social media, infrastructure, research, monitoring, security, marine systems.
 
-> *Your data is your identity. Protect it like it.*
+### Smart Boat System
+I live aboard a **50-foot aluminum trawler**. I am turning it into a fully autonomous vessel — AI security cameras with object detection, marine data integration via SignalK, Zigbee sensor mesh, solar power monitoring, and a NATS event bus that keeps all systems coordinated even offline. When Starlink drops, agents fall back to Meshtastic mesh radio and HF digital modes (JS8Call, Winlink) via my ham license **N4ZSM**.
 
 ---
 
-## 🤖 Building with AI — Right Now
+## Patents
 
-I'm deep in the AI trenches daily — training models, building agents, working with massive datasets, and deploying systems that actually do things.
-
-### 🔥 Active Projects
-
-**[Agent Exchange — 411.lol](https://411.lol)** 🚀
-The internet is drowning in tokens. Agents burn thousands just to find a simple API. I'm fixing that. 411.lol is agent-optimized search and service discovery — find what you need in ~50 tokens instead of 2,000+. **Mission: save 1 trillion tokens for humanity.** Free, open, community-powered.
-
-**[Family Genealogy & Reconnection — 86hate.com](https://86hate.com)** 🧬❤️
-Family is everything. I'm using AI agents, DNA data, and historical records to help people rediscover where they came from — and reconnect with people they didn't know they had. Because love and connection are worth building for.
-
-### 🛠️ How I Build
-
-- 🍎 **Self-hosted Ollama** on Apple silicon — local LLMs, zero cloud dependency
-- 🤖 **Claude Code** — AI-native development workflow
-- 🐳 **Docker Swarm** — 4-node cluster, redundant across multiple VPS providers
-- 📦 **50+ services deployed** — websites, databases, APIs, all self-managed
-- 🎙️ **Voice AI** — outbound call automation with custom personas
-- 🕵️ **Autonomous Agents** — research, genealogy, infrastructure, market analysis
+| Patent | Title |
+|--------|-------|
+| [US10120058B2](https://patents.google.com/patent/US10120058B2) | System and method for locating a point in space |
+| [US6075496A](https://patents.google.com/patent/US6075496A) | Shunt feed antenna for large terrestrial vehicles |
+| [US20040127185A1](https://patents.google.com/patent/US20040127185A1) | Harmonic suppression for a multi-band transmitter |
+| [US20050180359A1](https://patents.google.com/patent/US20050180359A1) | Technique for output power dithering for improved performance |
 
 ---
 
-## 🌐 My Corner of the Internet
+## Consulting
 
-| | Site | What's there |
-|-|------|-------------|
-| 🏠 | [86hate.com](https://86hate.com) | Main hub — projects, services, family |
-| 🌌 | [33x.me](https://33x.me) | Personal fediverse home |
-| 🤖 | [411.lol](https://411.lol) | Agent Exchange — AI service discovery |
-| 🧹 | [flawlessproclean.com](https://flawlessproclean.com) | Flawless Pro Clean |
-| ⛵ | [siolohsailing.com](https://siolohsailing.com) | Sailing & yacht life |
-| ✍️ | [blog.86hate.com](https://blog.86hate.com) | Thoughts, projects, and adventures |
+Available for consulting on:
+
+- **RF System Design** — antennas, transceivers, wireless systems
+- **Space Systems** — satellite communications, flight hardware
+- **AFTU** — airborne flight test units, safety-critical avionics
+- **AI Agent Architecture** — multi-agent systems, coordination protocols, deployment
+- **AI Implementation** — bringing AI agents into corporate environments
+
+20 years of certified hardware experience + hands-on AI agent deployment. I bridge the gap between legacy systems engineering and the AI frontier.
 
 ---
 
-## 🛠️ Self-Hosted Infrastructure
+## Self-Hosted Infrastructure
 
 > I don't rent the cloud. I *am* the cloud.
 
-4-node Docker Swarm · multiple VPS providers · 50+ services · all self-managed, self-owned, fully redundant.
+4-node Docker Swarm. 50+ services. All self-managed, self-owned, fully redundant.
 
 | Service | URL |
 |---------|-----|
-| 🔍 Private Search (SearXNG) | [search.86hate.com](https://search.86hate.com) |
-| 🐘 Mastodon | [social.86hate.com](https://social.86hate.com) |
-| 📺 PeerTube | [pt.33x.me](https://pt.33x.me) |
-| 🎵 Funkwhale Music | [music.86hate.com](https://music.86hate.com) |
-| 📝 Collaborative Docs | [docs.86hate.com](https://docs.86hate.com) |
-| 🔐 SSO (Authentik) | [auth.86hate.com](https://auth.86hate.com) |
-| 🗂️ Private Git (Forgejo) | [git.86hate.com](https://git.86hate.com) |
-| 🧬 Genealogy Research | [genealogy.86hate.com](https://genealogy.86hate.com) |
-| ⛵ Yacht Monitor | [snow.86hate.com](https://snow.86hate.com) |
+| Private Search (SearXNG) | [search.86hate.com](https://search.86hate.com) |
+| Mastodon | [social.86hate.com](https://social.86hate.com) |
+| PeerTube | [video.86hate.com](https://video.86hate.com) |
+| Ghost Blog | [blog.86hate.com](https://blog.86hate.com) |
+| SSO (Authentik) | [auth.86hate.com](https://auth.86hate.com) |
+| Private Git (Forgejo) | [git.86hate.com](https://git.86hate.com) |
+| Yacht Monitor | [snow.86hate.com](https://snow.86hate.com) |
 
 ---
 
-## 📬 Reach Me
+## Reach Me
 
-> 🔒 **[contact.86hate.com](https://contact.86hate.com)** — Anonymous contact form. No account needed, no IP logged, no tracking. Choose Matrix delivery, Proton Mail, or standard email.
-
-Matrix is home base. Everything else is secondary.
-
-| Platform | Handle | Vibe |
-|----------|--------|------|
-| 🟢 **Matrix** | `@a:86hate.com` · `@road33:matrix.org` (backup) | ⭐ Best way — actually read |
-| 🟢 **Signal** | Available on request | ✅ Encrypted, responsive |
-| 🟡 **Mastodon** | `@adam@m.33x.me` · `@road33@mastodon.social` (backup) | ✅ Preferred social |
-| 🟡 **Lemmy** | Coming soon | ❤️ Favourite social |
-| 🔴 **LinkedIn** | [adam-harriman-86317a2](https://www.linkedin.com/in/adam-harriman-86317a2) | 🔕 Low use |
-| 🔴 **Twitter / X** · `@o7adam` | [Profile](https://twitter.com/o7adam) | 🔕 Low use |
-| ⚫ **Facebook / Instagram / Snapchat / WhatsApp** | — | 🔇 Barely there |
-
-> If it's important, use Matrix or Signal. Proprietary platforms don't get my attention.
+| Platform | Handle | |
+|----------|--------|-|
+| **Matrix** | `@a:86hate.com` | Best way |
+| **Signal** | Available on request | Encrypted |
+| **Email** | `a@86hate.com` | |
+| **Mastodon** | `@adam@social.86hate.com` | Preferred social |
+| **LinkedIn** | [adam-harriman](https://www.linkedin.com/in/adam-harriman/) | Professional |
+| **Anonymous** | [contact.86hate.com](https://contact.86hate.com) | No account needed |
 
 ---
 
-## ⚙️ Stack
+## Stack
 
 ![Linux](https://img.shields.io/badge/Linux-since_1991-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-Ollama_LLM-000000?style=flat-square&logo=apple&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker_Swarm-4_nodes-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Swarm-4_nodes-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Everything-4CAF50?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI-Agents_%26_Training-8B5CF6?style=flat-square)
-![Services](https://img.shields.io/badge/50%2B-Services_Deployed-FF6900?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI-Agent_Teams-8B5CF6?style=flat-square)
+![Ham Radio](https://img.shields.io/badge/Ham-N4ZSM-FF6900?style=flat-square)
 
 ---
 
 <div align="center">
 
-*Privacy is not a feature — it's a foundation.*
-*Build things that matter. Own what you build.*
+*Build things that matter. Own what you build. Ship fast.*
 
 </div>
